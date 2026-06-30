@@ -23,4 +23,4 @@ This UX research case study investigates how GitHub Copilot changes developer co
 
 ## Full Case Study
 
-📄 [Read the PDF](The_Trust_Gradient_UX_Case_Study.pdf)
+📄 [Read the PDF](trust-gradient-case-study.pdf)
